@@ -8,7 +8,7 @@
 
 .login-block {
   width: 40%;
-  height: 60%;
+  height: 80%;
   border: 1px solid black;
   background: white;
 }
@@ -29,4 +29,8 @@
   flex-direction: column;
   gap: 15px ;
   align-items: center;
+}
+
+.result {
+  text-align: center;
 }
